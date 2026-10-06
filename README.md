@@ -231,4 +231,4 @@ This repository serves as the official landing page for Mozy. The software is di
 **Get the most recent version of Mozy today!**
 
 ---
-**Last updated:** 2026-10-06 04:46:29 UTC
+**Last updated:** 2026-10-06 11:45:42 UTC
